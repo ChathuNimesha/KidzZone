@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="strongblue">#0710FF</color>
+    <color name="Skyblue">#2EDDF4</color>
+    <color name="royalPurple">#643AB7</color>
+    <color name="deepPurple">#673AB7</color>
+    <color name="PaleAqua">#92BEBE</color>
+    <color name="SoftBlueGray">#A4BAB8</color>
+    <color name="ElectricBlue">#0710FF</color>
+    <color name="JetBlack">#0A0A0A</color>
+    <color name="SoftFrost">#FBF7F7</color>
+    <color name="stoneGray">#969393</color>
+    <color name="taupeGray">#918B8B</color>
+    <color name="Gray">#7E7E7E</color>
+    <color name="lightBlue">#89BFDA</color>
+    <color name="steelGray">#828384</color>
+    <color name="AquaBlue">#00BCD4</color>
+    <color name="RoyalBlue">#2196F3</color>
+    <color name="jetBlack">#070707</color>
+    <color name="gray">#030303</color>
+    <color name="brown">#0D0B0B</color>
+
+</resources>

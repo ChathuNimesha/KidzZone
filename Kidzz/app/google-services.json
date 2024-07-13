@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "154268238915",
+    "project_id": "kidzz-a0ca7",
+    "storage_bucket": "kidzz-a0ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154268238915:android:11b7c92886f59a7ecb00f6",
+        "android_client_info": {
+          "package_name": "com.example.kidzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1VYMeNr7HXqYo-Gh_JB5fj2YeHAGuYkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "rules": {
+        ".read": "true",
+        ".write": "true"
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
